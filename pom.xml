@@ -9,7 +9,7 @@
     <properties>
         <!--dependencies-->
         <java_version>1.8</java_version>
-        <kotlin.version>1.3.72</kotlin.version>
+        <kotlin.version>1.6.0</kotlin.version>
         <!--plugins-->
         <maven_compiler_plugin_version>3.8.1</maven_compiler_plugin_version>
         <maven.compiler.source>${java_version}</maven.compiler.source>
